@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Montella_final</string>
+    <string name="workouts">Workouts</string>
+    <string-array name="workouts">
+        <item>Cardio</item>
+        <item>Strength</item>
+        <item>Stretching</item>
+    </string-array>
+    <string name="create_order">Order</string>
+    <string name="title_activity_order">Create Order</string>
+</resources>
